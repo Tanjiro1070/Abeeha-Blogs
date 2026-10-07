@@ -9,7 +9,7 @@ Article file: `blog/luxury-pret-uk-buyers-guide.html` (body plus Article, Breadc
 |---|---|---|
 | Title tag | Luxury Pret UK: A Buyer's Guide to Pakistani Ready-to-Wear | 58 characters |
 | Meta description | Luxury pret is stitched Pakistani designer wear between everyday pret and bridal. See UK prices in pounds, how it fits, alteration costs and where to buy. | 154 characters |
-| H1 | What Is Luxury Pret? A UK Buyer's Guide to Pakistani Ready-to-Wear | 68 characters |
+| H1 | What Is Luxury Pret? A UK Buyer's Guide to Pakistani Ready-to-Wear | 66 characters |
 | Shopify blog | News | |
 | URL slug (handle) | `luxury-pret-uk-buyers-guide` | |
 | Live URL | https://houseofanaya.co.uk/blogs/news/luxury-pret-uk-buyers-guide | |
